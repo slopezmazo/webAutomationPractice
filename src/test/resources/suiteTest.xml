@@ -1,0 +1,17 @@
+<suite name="SauceDemoTests">
+    <test name="Purchase Product Test">
+        <classes>
+            <class name="com.globant.PurchaseProductTest"/>
+        </classes>
+    </test>
+    <test name="Remove from Cart Test">
+        <classes>
+            <class name="com.globant.RemoveFromCartTest"/>
+        </classes>
+    </test>
+    <test name="Logout Test">
+        <classes>
+            <class name="com.globant.LogoutTest"/>
+        </classes>
+    </test>
+</suite>
