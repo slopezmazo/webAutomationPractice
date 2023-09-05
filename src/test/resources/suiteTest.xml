@@ -10,6 +10,7 @@
         <classes>
             <class name="com.globant.tests.LoginTest"/>
             <class name="com.globant.tests.AddToCartTest"/>
+            <class name="com.globant.tests.CartCheckoutTest"/>
         </classes>
     </test>
 </suite>
