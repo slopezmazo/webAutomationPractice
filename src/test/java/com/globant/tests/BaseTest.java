@@ -28,9 +28,9 @@ public class BaseTest extends Reporter {
         driver.manage().window().maximize();
         LogInPage = new LogInPage(driver);
     }
-    @AfterSuite(alwaysRun = true)
-    public void teardown(){
-        logInfo("Closing Chrome driver session...");
-        driver.quit();
-    }
+//    @AfterSuite(alwaysRun = true)
+//    public void teardown(){
+//        logInfo("Closing Chrome driver session...");
+//        driver.quit();
+//    }
 }

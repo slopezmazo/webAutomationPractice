@@ -6,7 +6,7 @@
 
     <parameter name="url" value="https://www.saucedemo.com/" />
 
-    <test name="invalid login">
+    <test name="Purchase">
         <classes>
             <class name="com.globant.tests.LoginTest"/>
             <class name="com.globant.tests.AddToCartTest"/>

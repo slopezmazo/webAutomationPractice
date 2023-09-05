@@ -5,8 +5,9 @@ import org.testng.annotations.Test;
 
 public class AddToCartTest extends BaseTest{
     @Test()
-    public void printB(){
+    public void addToCartTest(){
         InventoryPage inventory = new InventoryPage(driver);
-        inventory.printButtons();
+        inventory.clickOneRandomAddToCart();
+        inventory.clickOnCartLink();
     }
 }
