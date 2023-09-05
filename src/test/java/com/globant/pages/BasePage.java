@@ -1,9 +1,11 @@
 package com.globant.pages;
 
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -16,6 +18,12 @@ public class BasePage {
     private final WebDriver driver;
     private final WebDriverWait wait;
     private final Actions actions;
+
+
+    @FindBy(css="#menu_button_container .bm-burger-button")
+    protected WebElement menu;
+
+    protected WebElement logoutButton;
 
     public BasePage(WebDriver driver){
         this.driver = driver;
@@ -48,4 +56,20 @@ public class BasePage {
         Alert alert = getDriver().switchTo().alert();
         alert.dismiss();
     }
+
+    public void clickOnMenu(){
+        clickElement(menu);
+        WebElement logoutButton = driver.findElement(By.id("logout_sidebar_link"));
+        setLogoutButton(logoutButton);
+    }
+
+    public void setLogoutButton(WebElement e){
+        this.logoutButton=e;
+    }
+
+    public void clickLogoutOption(){
+        clickElement(logoutButton);
+    }
+
+
 }
