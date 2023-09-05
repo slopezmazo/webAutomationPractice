@@ -5,12 +5,12 @@
 <!--    </listeners>-->
 
     <parameter name="url" value="https://www.saucedemo.com/" />
+    <parameter name="username" value="standard_user" />
+    <parameter name="password" value="secret_sauce" />
 
     <test name="Purchase">
         <classes>
-            <class name="com.globant.tests.LoginTest"/>
-            <class name="com.globant.tests.AddToCartTest"/>
-            <class name="com.globant.tests.CartCheckoutTest"/>
+            <class name="com.globant.tests.PurchaseTest"/>
         </classes>
     </test>
 </suite>

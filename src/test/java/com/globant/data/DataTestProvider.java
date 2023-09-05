@@ -21,4 +21,15 @@ public class DataTestProvider {
                 }
         };
     }
+
+    @DataProvider(name = "checkoutStepOne")
+    public static Object[][] testDataCheckoutStepOne() {
+        return new Object[][] {
+                {
+                        "Sebastian",
+                        "Lopez",
+                        "123456"
+                }
+        };
+    }
 }
