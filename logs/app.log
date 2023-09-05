@@ -165,3 +165,50 @@
 13:00:40.253 [main] INFO  com.globant.Reporter - checkout step two page loaded sucessfully
 13:00:40.358 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
 13:00:40.358 [main] INFO  com.globant.Reporter - checkout complete page loaded sucessfully
+15:57:55.504 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+15:58:00.775 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+15:58:02.044 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+15:58:03.021 [main] INFO  com.globant.Reporter - inventory page loaded sucessfully
+15:58:03.098 [main] INFO  com.globant.Reporter - item added to cart successfully
+15:58:03.186 [main] INFO  com.globant.Reporter - redirecting to cart page...
+15:58:03.187 [main] INFO  com.globant.Reporter - cart page loaded sucessfully
+15:58:03.266 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+15:58:03.271 [main] INFO  com.globant.Reporter - checkout step one page loaded sucessfully
+15:58:03.271 [main] INFO  com.globant.Reporter - filling out first name
+15:58:03.356 [main] INFO  com.globant.Reporter - filling out last name
+15:58:03.431 [main] INFO  com.globant.Reporter - filling out zip/postal code
+15:58:03.599 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+15:58:03.603 [main] INFO  com.globant.Reporter - checkout step two page loaded sucessfully
+15:58:03.704 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+15:58:03.705 [main] INFO  com.globant.Reporter - checkout complete page loaded sucessfully
+17:02:05.020 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+17:02:09.922 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+17:02:10.805 [main] INFO  com.globant.Reporter - login page initialized successfully
+17:02:11.429 [main] INFO  com.globant.Reporter - login succeed
+17:02:11.432 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+17:02:12.709 [main] INFO  com.globant.Reporter - inventory page loaded sucessfully
+17:02:12.827 [main] INFO  com.globant.Reporter - item added to cart successfully
+17:02:12.958 [main] INFO  com.globant.Reporter - redirecting to cart page...
+17:02:12.966 [main] INFO  com.globant.Reporter - cart page loaded sucessfully
+17:02:13.077 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+17:02:13.083 [main] INFO  com.globant.Reporter - checkout step one page loaded sucessfully
+17:02:13.083 [main] INFO  com.globant.Reporter - filling out first name
+17:02:13.200 [main] INFO  com.globant.Reporter - filling out last name
+17:02:13.335 [main] INFO  com.globant.Reporter - filling out zip/postal code
+17:02:13.557 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+17:02:13.560 [main] INFO  com.globant.Reporter - checkout step two page loaded sucessfully
+17:02:13.663 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+17:02:13.663 [main] INFO  com.globant.Reporter - checkout complete page loaded sucessfully
+17:06:03.184 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+17:06:07.353 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+17:06:08.181 [main] INFO  com.globant.Reporter - login page initialized successfully
+17:06:08.701 [main] INFO  com.globant.Reporter - login succeed
+17:06:08.703 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+17:06:09.095 [main] INFO  com.globant.Reporter - Click on menu
+17:07:20.141 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+17:07:24.920 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+17:07:25.789 [main] INFO  com.globant.Reporter - login page initialized successfully
+17:07:26.269 [main] INFO  com.globant.Reporter - login succeed
+17:07:26.271 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+17:07:26.651 [main] INFO  com.globant.Reporter - Click on menu
+17:07:26.787 [main] INFO  com.globant.Reporter - Click on logout

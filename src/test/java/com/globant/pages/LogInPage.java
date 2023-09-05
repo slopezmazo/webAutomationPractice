@@ -11,7 +11,7 @@ public class LogInPage extends BasePage {
     @FindBy(id="password")
     private WebElement password;
     @FindBy(id="login-button")
-    private WebElement logginButton;
+    private WebElement loginButton;
     public LogInPage(WebDriver driver) {
         super(driver);
     }
@@ -22,7 +22,7 @@ public class LogInPage extends BasePage {
         typeText(this.password,password);
     }
     public void clickLoginButton(){
-        clickElement(this.logginButton);
+        clickElement(this.loginButton);
     }
 
 }
