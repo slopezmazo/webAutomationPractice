@@ -72,3 +72,6 @@
 09:26:44.574 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
 09:26:49.807 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
 09:26:50.797 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+11:30:15.170 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+11:30:20.726 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+11:30:21.613 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
