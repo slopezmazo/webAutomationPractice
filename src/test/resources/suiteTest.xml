@@ -14,9 +14,14 @@
 <!--        </classes>-->
 <!--    </test>-->
 
-    <test name="logout">
+<!--    <test name="logout">-->
+<!--        <classes>-->
+<!--            <class name="com.globant.tests.LogoutTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="EmptyCart">
         <classes>
-            <class name="com.globant.tests.LogoutTest"/>
+            <class name="com.globant.tests.EmptyCartTest"/>
         </classes>
     </test>
 </suite>

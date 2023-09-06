@@ -10,7 +10,7 @@ public class PurchaseTest extends BaseTest{
 
         //inventory page
         InventoryPage inventory = new InventoryPage(driver);
-        logInfo("inventory page loaded sucessfully");
+        logInfo("inventory page loaded successfully");
         inventory.clickOneRandomAddToCart();
         logInfo("item added to cart successfully");
         inventory.clickOnCartLink();
@@ -18,13 +18,13 @@ public class PurchaseTest extends BaseTest{
 
         //cart page
         CartPage cart = new CartPage(driver);
-        logInfo("cart page loaded sucessfully");
+        logInfo("cart page loaded successfully");
         cart.clickCheckout();
         logInfo("redirecting to checkout step one page...");
 
         //checkout step one page
         CheckoutStepOnePage checkoutStepOne = new CheckoutStepOnePage(driver);
-        logInfo("checkout step one page loaded sucessfully");
+        logInfo("checkout step one page loaded successfully");
         logInfo("filling out first name");
         checkoutStepOne.typeFirstName(firstName);
         logInfo("filling out last name");
@@ -36,13 +36,12 @@ public class PurchaseTest extends BaseTest{
 
         //checkout step two page
         CheckoutStepTwoPage checkoutSteptwo = new CheckoutStepTwoPage(driver);
-        logInfo("checkout step two page loaded sucessfully");
+        logInfo("checkout step two page loaded successfully");
         checkoutSteptwo.clickFinishButton();
         logInfo("redirecting to checkout complete page...");
 
-
         //checkout complete
-        logInfo("checkout complete page loaded sucessfully");
+        logInfo("checkout complete page loaded successfully");
         CheckoutCompletePage checkoutComplete = new CheckoutCompletePage(driver);
 //        checkoutComplete.getTitle();
     }
