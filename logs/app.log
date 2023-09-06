@@ -212,3 +212,13 @@
 17:07:26.271 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
 17:07:26.651 [main] INFO  com.globant.Reporter - Click on menu
 17:07:26.787 [main] INFO  com.globant.Reporter - Click on logout
+17:38:00.877 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+17:38:03.801 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+17:38:04.643 [main] INFO  com.globant.Reporter - login page initialized successfully
+17:38:05.023 [main] INFO  com.globant.Reporter - login succeed
+17:38:05.024 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+17:38:05.335 [main] INFO  com.globant.Reporter - inventory page loaded sucessfully
+17:38:05.524 [main] INFO  com.globant.Reporter - items added to cart successfully
+17:38:05.604 [main] INFO  com.globant.Reporter - redirecting to cart page...
+17:38:05.606 [main] INFO  com.globant.Reporter - cart page loaded sucessfully
+17:38:05.740 [main] INFO  com.globant.Reporter - Emptying cart...
