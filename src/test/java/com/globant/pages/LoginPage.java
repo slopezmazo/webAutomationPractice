@@ -5,14 +5,14 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
 
-public class LogInPage extends BasePage {
+public class LoginPage extends BasePage {
     @FindBy(id="user-name")
     private WebElement username;
     @FindBy(id="password")
     private WebElement password;
     @FindBy(id="login-button")
     private WebElement loginButton;
-    public LogInPage(WebDriver driver) {
+    public LoginPage(WebDriver driver) {
         super(driver);
     }
     public void typeUsername(String username){
@@ -23,6 +23,9 @@ public class LogInPage extends BasePage {
     }
     public void clickLoginButton(){
         clickElement(this.loginButton);
+    }
+    public String getLoginButtonName(){
+        return this.loginButton.getText();
     }
 
 }

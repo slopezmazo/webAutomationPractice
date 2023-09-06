@@ -12,9 +12,10 @@ public class CartPage extends BasePage {
             @FindBy(css = ".cart_item button[id^=remove]") // Replace with the appropriate locator
     })
     private List<WebElement> RemoveButtonsFromCartButtons;
-
     @FindBy(id="checkout")
     private WebElement checkoutButton;
+    @FindBy(className="cart_item")
+    private List<WebElement> cartItemList;
     public CartPage(WebDriver driver) {
         super(driver);
     }
@@ -26,5 +27,8 @@ public class CartPage extends BasePage {
     }
     public void clickCheckout(){
         clickElement(checkoutButton);
+    }
+    public Integer getCartItemsSize(){
+        return cartItemList.size();
     }
 }

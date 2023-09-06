@@ -11,12 +11,13 @@ import java.util.Random;
 import java.util.List;
 
 public class InventoryPage extends BasePage{
-    @FindAll({
-            @FindBy(css = ".inventory_item button[id^=add-to-cart]") // Replace with the appropriate locator
-    })
+//    @FindAll({
+//            @FindBy(css = ".inventory_item button[id^=add-to-cart]")
+//    })
+
+    @FindBy(css = "button[id^=add-to-cart]")
     private List<WebElement> addToCartButtons;
-    @FindBy(css="#shopping_cart_container .shopping_cart_link")
-    private WebElement CartLink;
+
 
     public InventoryPage(WebDriver driver) {
         super(driver);
@@ -26,16 +27,14 @@ public class InventoryPage extends BasePage{
         Random rand = new Random();
         int n = rand.nextInt(addToCartButtons.size());
         clickElement(addToCartButtons.get(n));
+        setShoppingCartBadge();
     }
     public void clickThreeRandomAddToCart() {
         Collections.shuffle(this.addToCartButtons);
         clickElement(this.addToCartButtons.get(0));
         clickElement(this.addToCartButtons.get(1));
         clickElement(this.addToCartButtons.get(2));
+        setShoppingCartBadge();
     }
 
-
-    public void clickOnCartLink() {
-        clickElement(CartLink);
-    }
 }

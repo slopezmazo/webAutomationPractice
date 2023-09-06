@@ -1,6 +1,6 @@
 package com.globant.tests;
 
-import com.globant.pages.LogInPage;
+import com.globant.pages.LoginPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -14,7 +14,7 @@ import static java.lang.String.format;
 public class BaseTest extends Reporter {
 
     protected static WebDriver driver;
-    protected LogInPage LogInPage;
+    protected LoginPage LoginPage;
 
 
     @BeforeSuite(alwaysRun = true)
@@ -23,24 +23,24 @@ public class BaseTest extends Reporter {
         WebDriverManager.chromedriver().setup();
     }
     @Parameters({"url","username","password"})
-    @BeforeSuite(alwaysRun = true)
+    @BeforeMethod(alwaysRun = true)
     public void testSetup(String url,String username, String password){
         logInfo("Starting new Chrome driver session...");
         driver = new ChromeDriver();
         logInfo(format("Navigating to %s", url));
         driver.get(url);
         driver.manage().window().maximize();
-        LogInPage = new LogInPage(driver);
+        LoginPage = new LoginPage(driver);
         logInfo("login page initialized successfully");
-        LogInPage.typeUsername(username);
-        LogInPage.typePassword(password);
-        LogInPage.clickLoginButton();
+        LoginPage.typeUsername(username);
+        LoginPage.typePassword(password);
+        LoginPage.clickLoginButton();
         logInfo("login succeed");
     }
 
-//    @AfterSuite(alwaysRun = true)
-//    public void teardown(){
-//        logInfo("Closing Chrome driver session...");
-//        driver.quit();
-//    }
+    @AfterMethod(alwaysRun = true)
+    public void teardown(){
+        logInfo("Closing Chrome driver session...");
+        driver.quit();
+    }
 }

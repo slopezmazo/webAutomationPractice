@@ -222,3 +222,547 @@
 17:38:05.604 [main] INFO  com.globant.Reporter - redirecting to cart page...
 17:38:05.606 [main] INFO  com.globant.Reporter - cart page loaded sucessfully
 17:38:05.740 [main] INFO  com.globant.Reporter - Emptying cart...
+19:53:41.347 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+19:53:45.306 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+19:53:46.314 [main] INFO  com.globant.Reporter - login page initialized successfully
+19:53:46.766 [main] INFO  com.globant.Reporter - login succeed
+19:53:46.768 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+19:53:47.950 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:53:48.065 [main] INFO  com.globant.Reporter - item added to cart successfully
+19:53:48.160 [main] INFO  com.globant.Reporter - redirecting to cart page...
+19:53:48.164 [main] INFO  com.globant.Reporter - cart page loaded successfully
+19:53:48.262 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+19:53:48.266 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+19:53:48.266 [main] INFO  com.globant.Reporter - filling out first name
+19:53:48.383 [main] INFO  com.globant.Reporter - filling out last name
+19:53:48.520 [main] INFO  com.globant.Reporter - filling out zip/postal code
+19:53:48.771 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+19:53:48.775 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+19:53:48.873 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+19:53:48.873 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+19:53:48.886 [main] INFO  com.globant.Reporter - Click on menu
+19:53:48.999 [main] INFO  com.globant.Reporter - Click on logout
+19:53:49.574 [main] INFO  com.globant.Reporter - Logging out
+19:53:49.577 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:54:48.977 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+19:54:52.923 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+19:54:53.737 [main] INFO  com.globant.Reporter - login page initialized successfully
+19:54:54.256 [main] INFO  com.globant.Reporter - login succeed
+19:54:54.259 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+19:54:54.617 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:54:55.005 [main] INFO  com.globant.Reporter - items added to cart successfully
+19:54:55.105 [main] INFO  com.globant.Reporter - redirecting to cart page...
+19:54:55.108 [main] INFO  com.globant.Reporter - cart page loaded successfully
+19:54:55.311 [main] INFO  com.globant.Reporter - Emptying cart...
+19:55:36.558 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+19:55:40.256 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+19:55:41.173 [main] INFO  com.globant.Reporter - login page initialized successfully
+19:55:41.643 [main] INFO  com.globant.Reporter - login succeed
+19:55:41.646 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+19:55:41.991 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:55:42.117 [main] INFO  com.globant.Reporter - item added to cart successfully
+19:55:42.235 [main] INFO  com.globant.Reporter - redirecting to cart page...
+19:55:42.239 [main] INFO  com.globant.Reporter - cart page loaded successfully
+19:55:42.336 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+19:55:42.340 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+19:55:42.340 [main] INFO  com.globant.Reporter - filling out first name
+19:55:42.464 [main] INFO  com.globant.Reporter - filling out last name
+19:55:42.587 [main] INFO  com.globant.Reporter - filling out zip/postal code
+19:55:42.781 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+19:55:42.785 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+19:55:42.889 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+19:55:42.889 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+19:55:42.899 [main] INFO  com.globant.Reporter - Click on menu
+19:55:43.036 [main] INFO  com.globant.Reporter - Click on logout
+19:55:43.614 [main] INFO  com.globant.Reporter - Logging out
+19:55:43.616 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:55:43.635 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+19:57:10.402 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+19:57:13.620 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+19:57:14.534 [main] INFO  com.globant.Reporter - login page initialized successfully
+19:57:14.994 [main] INFO  com.globant.Reporter - login succeed
+19:57:14.998 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+19:57:15.451 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:57:15.631 [main] INFO  com.globant.Reporter - item added to cart successfully
+19:57:15.750 [main] INFO  com.globant.Reporter - redirecting to cart page...
+19:57:15.754 [main] INFO  com.globant.Reporter - cart page loaded successfully
+19:57:15.872 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+19:57:15.876 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+19:57:15.877 [main] INFO  com.globant.Reporter - filling out first name
+19:57:16.002 [main] INFO  com.globant.Reporter - filling out last name
+19:57:16.104 [main] INFO  com.globant.Reporter - filling out zip/postal code
+19:57:16.316 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+19:57:16.320 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+19:57:16.414 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+19:57:16.414 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+19:57:16.425 [main] INFO  com.globant.Reporter - Click on menu
+19:57:16.543 [main] INFO  com.globant.Reporter - Click on logout
+19:57:17.110 [main] INFO  com.globant.Reporter - Logging out
+19:57:17.112 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:58:27.489 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+19:59:37.202 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+19:59:39.906 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+19:59:40.685 [main] INFO  com.globant.Reporter - login page initialized successfully
+19:59:41.203 [main] INFO  com.globant.Reporter - login succeed
+19:59:41.206 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+19:59:41.826 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:59:41.992 [main] INFO  com.globant.Reporter - item added to cart successfully
+19:59:42.133 [main] INFO  com.globant.Reporter - redirecting to cart page...
+19:59:42.137 [main] INFO  com.globant.Reporter - cart page loaded successfully
+19:59:42.256 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+19:59:42.261 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+19:59:42.261 [main] INFO  com.globant.Reporter - filling out first name
+19:59:42.394 [main] INFO  com.globant.Reporter - filling out last name
+19:59:42.507 [main] INFO  com.globant.Reporter - filling out zip/postal code
+19:59:42.720 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+19:59:42.725 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+19:59:42.815 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+19:59:42.815 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+19:59:42.825 [main] INFO  com.globant.Reporter - Click on menu
+19:59:42.932 [main] INFO  com.globant.Reporter - Click on logout
+19:59:43.529 [main] INFO  com.globant.Reporter - Logging out
+19:59:43.533 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+19:59:43.558 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:00:09.926 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:00:12.641 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:00:13.439 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:00:13.814 [main] INFO  com.globant.Reporter - login succeed
+20:00:13.815 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:00:14.140 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:00:14.285 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:00:14.396 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:00:14.401 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:00:14.500 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:00:14.503 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:00:14.504 [main] INFO  com.globant.Reporter - filling out first name
+20:00:14.613 [main] INFO  com.globant.Reporter - filling out last name
+20:00:14.711 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:00:14.926 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:00:14.929 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:00:15.012 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:00:15.012 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:00:15.021 [main] INFO  com.globant.Reporter - Click on menu
+20:00:15.136 [main] INFO  com.globant.Reporter - Click on logout
+20:00:15.701 [main] INFO  com.globant.Reporter - Logging out
+20:00:15.704 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:00:15.721 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:00:42.370 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:00:45.251 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:00:46.057 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:00:46.555 [main] INFO  com.globant.Reporter - login succeed
+20:00:46.559 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:00:46.898 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:00:47.054 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:00:47.173 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:00:47.176 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:00:47.287 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:00:47.291 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:00:47.291 [main] INFO  com.globant.Reporter - filling out first name
+20:00:47.399 [main] INFO  com.globant.Reporter - filling out last name
+20:00:47.492 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:00:47.711 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:00:47.714 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:00:47.802 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:00:47.802 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:00:47.810 [main] INFO  com.globant.Reporter - Click on menu
+20:00:47.919 [main] INFO  com.globant.Reporter - Click on logout
+20:00:48.485 [main] INFO  com.globant.Reporter - Logging out
+20:00:48.487 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:00:48.500 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:01:13.596 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:01:16.350 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:01:17.206 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:01:17.732 [main] INFO  com.globant.Reporter - login succeed
+20:01:17.734 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:01:18.177 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:01:18.334 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:01:18.522 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:01:18.527 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:01:18.633 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:01:18.637 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:01:18.637 [main] INFO  com.globant.Reporter - filling out first name
+20:01:18.749 [main] INFO  com.globant.Reporter - filling out last name
+20:01:18.846 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:01:19.063 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:01:19.066 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:01:19.153 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:01:19.153 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:01:19.163 [main] INFO  com.globant.Reporter - Click on menu
+20:01:19.272 [main] INFO  com.globant.Reporter - Click on logout
+20:01:19.829 [main] INFO  com.globant.Reporter - Logging out
+20:01:19.831 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:01:19.855 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:06:46.411 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:06:49.204 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:06:50.123 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:06:50.506 [main] INFO  com.globant.Reporter - login succeed
+20:06:50.508 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:06:50.838 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:06:50.953 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:06:51.027 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:06:51.032 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:06:51.131 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:06:51.134 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:06:51.134 [main] INFO  com.globant.Reporter - filling out first name
+20:06:51.213 [main] INFO  com.globant.Reporter - filling out last name
+20:06:51.288 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:06:51.457 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:06:51.460 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:06:51.535 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:06:51.535 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:06:51.544 [main] INFO  com.globant.Reporter - Click on menu
+20:06:51.626 [main] INFO  com.globant.Reporter - Click on logout
+20:06:52.178 [main] INFO  com.globant.Reporter - Logging out
+20:06:52.181 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:06:52.197 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:07:07.679 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:07:11.290 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:07:12.089 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:07:12.548 [main] INFO  com.globant.Reporter - login succeed
+20:07:12.550 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:07:12.926 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:07:13.056 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:07:13.154 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:07:13.159 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:07:13.270 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:07:13.274 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:07:13.274 [main] INFO  com.globant.Reporter - filling out first name
+20:07:13.387 [main] INFO  com.globant.Reporter - filling out last name
+20:07:13.503 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:07:13.718 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:07:13.722 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:07:13.812 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:07:13.812 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:07:13.822 [main] INFO  com.globant.Reporter - Click on menu
+20:07:13.950 [main] INFO  com.globant.Reporter - Click on logout
+20:07:14.513 [main] INFO  com.globant.Reporter - Logging out
+20:07:14.515 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:07:14.538 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:07:58.186 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:08:00.966 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:08:01.858 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:08:02.237 [main] INFO  com.globant.Reporter - login succeed
+20:08:02.239 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:08:02.504 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:08:02.620 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:08:02.691 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:08:02.696 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:08:02.788 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:08:02.790 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:08:02.791 [main] INFO  com.globant.Reporter - filling out first name
+20:08:02.874 [main] INFO  com.globant.Reporter - filling out last name
+20:08:02.947 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:08:03.103 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:08:03.107 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:08:03.178 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:08:03.178 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:08:03.187 [main] INFO  com.globant.Reporter - Click on menu
+20:08:03.280 [main] INFO  com.globant.Reporter - Click on logout
+20:08:03.852 [main] INFO  com.globant.Reporter - Logging out
+20:08:03.856 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:08:03.885 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:08:38.380 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:08:41.887 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:08:42.674 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:08:43.372 [main] INFO  com.globant.Reporter - login succeed
+20:08:43.375 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:08:43.742 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:08:43.880 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:08:43.980 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:08:43.986 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:08:44.103 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:08:44.106 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:08:44.106 [main] INFO  com.globant.Reporter - filling out first name
+20:08:44.216 [main] INFO  com.globant.Reporter - filling out last name
+20:08:44.336 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:08:44.545 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:08:44.548 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:08:44.639 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:08:44.639 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:08:44.648 [main] INFO  com.globant.Reporter - Click on menu
+20:08:44.760 [main] INFO  com.globant.Reporter - Click on logout
+20:08:45.329 [main] INFO  com.globant.Reporter - Logging out
+20:08:45.332 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:08:45.356 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:09:59.292 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:10:02.120 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:10:02.914 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:10:03.330 [main] INFO  com.globant.Reporter - login succeed
+20:10:03.333 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:10:03.636 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:10:03.711 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:10:36.448 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:10:39.132 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:10:39.938 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:10:40.372 [main] INFO  com.globant.Reporter - login succeed
+20:10:40.375 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:10:40.641 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:10:40.886 [main] INFO  com.globant.Reporter - items added to cart successfully
+20:10:40.971 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:10:40.976 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:10:41.146 [main] INFO  com.globant.Reporter - Emptying cart...
+20:10:41.152 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:12:36.876 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:12:37.200 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:12:39.052 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:12:39.862 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:12:40.234 [main] INFO  com.globant.Reporter - login succeed
+20:12:40.245 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:12:40.345 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:12:40.410 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:12:40.415 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:12:40.481 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:12:40.485 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:12:40.485 [main] INFO  com.globant.Reporter - filling out first name
+20:12:40.565 [main] INFO  com.globant.Reporter - filling out last name
+20:12:40.638 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:12:40.805 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:12:40.807 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:12:40.881 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:12:40.881 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:12:40.885 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:12:41.534 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:12:43.209 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:12:44.008 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:12:44.435 [main] INFO  com.globant.Reporter - login succeed
+20:12:44.437 [main] INFO  com.globant.Reporter - Click on menu
+20:12:44.563 [main] INFO  com.globant.Reporter - Click on logout
+20:12:45.140 [main] INFO  com.globant.Reporter - Logging out
+20:12:45.142 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:12:45.829 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:12:47.306 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:12:48.156 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:12:48.569 [main] INFO  com.globant.Reporter - login succeed
+20:12:48.571 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:12:48.873 [main] INFO  com.globant.Reporter - items added to cart successfully
+20:12:48.966 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:12:48.967 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:12:49.148 [main] INFO  com.globant.Reporter - Emptying cart...
+20:12:49.149 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:55:54.324 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:55:56.000 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:55:59.137 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:56:00.046 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:56:00.606 [main] INFO  com.globant.Reporter - login succeed
+20:56:00.664 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:56:00.808 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:56:00.921 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:56:00.958 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:56:00.989 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+20:57:42.849 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+20:57:43.433 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+20:57:46.294 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+20:57:47.162 [main] INFO  com.globant.Reporter - login page initialized successfully
+20:57:47.740 [main] INFO  com.globant.Reporter - login succeed
+20:57:47.794 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+20:57:47.950 [main] INFO  com.globant.Reporter - item added to cart successfully
+20:57:48.052 [main] INFO  com.globant.Reporter - redirecting to cart page...
+20:57:48.083 [main] INFO  com.globant.Reporter - cart page loaded successfully
+20:57:48.213 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+20:57:48.244 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+20:57:48.244 [main] INFO  com.globant.Reporter - filling out first name
+20:57:48.386 [main] INFO  com.globant.Reporter - filling out last name
+20:57:48.502 [main] INFO  com.globant.Reporter - filling out zip/postal code
+20:57:48.757 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+20:57:48.782 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+20:57:48.882 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+20:57:48.915 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+20:57:48.917 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:18:17.898 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+21:18:18.341 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:18:20.896 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:18:21.711 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:18:22.205 [main] INFO  com.globant.Reporter - login succeed
+21:18:22.267 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+21:18:22.575 [main] INFO  com.globant.Reporter - item added to cart successfully
+21:18:22.681 [main] INFO  com.globant.Reporter - redirecting to cart page...
+21:18:22.713 [main] INFO  com.globant.Reporter - cart page loaded successfully
+21:18:22.955 [main] INFO  com.globant.Reporter - Empty cart...
+21:18:22.958 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:36:01.481 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+21:36:02.090 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:36:05.046 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:36:05.959 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:36:06.673 [main] INFO  com.globant.Reporter - login succeed
+21:36:06.754 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+21:36:06.989 [main] INFO  com.globant.Reporter - item added to cart successfully
+21:36:07.108 [main] INFO  com.globant.Reporter - redirecting to cart page...
+21:36:07.139 [main] INFO  com.globant.Reporter - cart page loaded successfully
+21:36:07.273 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+21:36:07.301 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+21:36:07.302 [main] INFO  com.globant.Reporter - filling out first name
+21:36:07.421 [main] INFO  com.globant.Reporter - filling out last name
+21:36:07.521 [main] INFO  com.globant.Reporter - filling out zip/postal code
+21:36:07.706 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+21:36:07.727 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+21:36:07.840 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+21:36:07.865 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+21:36:07.869 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:36:08.735 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:36:10.857 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:36:11.639 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:36:12.165 [main] INFO  com.globant.Reporter - login succeed
+21:36:12.208 [main] INFO  com.globant.Reporter - Click on menu
+21:36:12.341 [main] INFO  com.globant.Reporter - Click on logout
+21:36:12.906 [main] INFO  com.globant.Reporter - Logging out
+21:36:12.907 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:36:13.578 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:36:15.086 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:36:15.938 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:36:16.399 [main] INFO  com.globant.Reporter - login succeed
+21:36:16.457 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+21:36:16.739 [main] INFO  com.globant.Reporter - item added to cart successfully
+21:36:16.831 [main] INFO  com.globant.Reporter - redirecting to cart page...
+21:36:16.853 [main] INFO  com.globant.Reporter - cart page loaded successfully
+21:36:17.055 [main] INFO  com.globant.Reporter - Empty cart...
+21:36:17.056 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:51:33.309 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+21:51:33.681 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:51:36.444 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:51:37.279 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:51:37.816 [main] INFO  com.globant.Reporter - login succeed
+21:51:37.880 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+21:51:38.040 [main] INFO  com.globant.Reporter - item added to cart successfully
+21:51:38.145 [main] INFO  com.globant.Reporter - redirecting to cart page...
+21:51:38.177 [main] INFO  com.globant.Reporter - cart page loaded successfully
+21:51:38.320 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+21:51:38.354 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+21:51:38.354 [main] INFO  com.globant.Reporter - filling out first name
+21:51:38.487 [main] INFO  com.globant.Reporter - filling out last name
+21:51:38.599 [main] INFO  com.globant.Reporter - filling out zip/postal code
+21:51:38.832 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+21:51:38.858 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+21:51:38.951 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+21:51:38.974 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+21:51:38.976 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:51:39.688 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:51:41.475 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:51:42.274 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:51:42.725 [main] INFO  com.globant.Reporter - login succeed
+21:51:42.774 [main] INFO  com.globant.Reporter - Click on menu
+21:51:42.882 [main] INFO  com.globant.Reporter - Click on logout
+21:51:43.439 [main] INFO  com.globant.Reporter - Logging out
+21:51:43.440 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+21:51:44.190 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+21:51:45.845 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+21:51:46.593 [main] INFO  com.globant.Reporter - login page initialized successfully
+21:51:47.027 [main] INFO  com.globant.Reporter - login succeed
+21:51:47.077 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+21:51:47.326 [main] INFO  com.globant.Reporter - item added to cart successfully
+21:51:47.412 [main] INFO  com.globant.Reporter - redirecting to cart page...
+21:51:47.436 [main] INFO  com.globant.Reporter - cart page loaded successfully
+21:51:47.687 [main] INFO  com.globant.Reporter - Empty cart...
+21:51:47.689 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:13:18.721 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+22:13:20.604 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:13:23.935 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:13:24.918 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:13:25.540 [main] INFO  com.globant.Reporter - login succeed
+22:13:25.620 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:13:25.874 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:13:25.996 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:13:26.032 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:13:26.165 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+22:13:26.192 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+22:13:26.193 [main] INFO  com.globant.Reporter - filling out first name
+22:13:26.324 [main] INFO  com.globant.Reporter - filling out last name
+22:13:26.448 [main] INFO  com.globant.Reporter - filling out zip/postal code
+22:13:26.717 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+22:13:26.745 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+22:13:26.877 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+22:13:26.910 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+22:13:26.914 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:13:27.887 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:13:29.859 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:13:30.755 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:13:31.380 [main] INFO  com.globant.Reporter - login succeed
+22:13:31.430 [main] INFO  com.globant.Reporter - Click on menu
+22:13:31.612 [main] INFO  com.globant.Reporter - Click on logout
+22:13:32.204 [main] INFO  com.globant.Reporter - Logging out
+22:13:32.207 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:13:33.000 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:13:34.658 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:13:35.524 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:13:36.075 [main] INFO  com.globant.Reporter - login succeed
+22:13:36.130 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:13:36.488 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:13:36.623 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:13:36.665 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:13:36.690 [main] ERROR com.globant.Reporter - Test failed! Capturing a screenshot...
+22:13:36.804 [main] INFO  com.globant.Reporter - Failed to capture screenshot: screenshots\EmptyCart_20230905221336.png (The system cannot find the path specified)
+22:13:36.810 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:15:45.252 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+22:15:45.771 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:15:48.612 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:15:49.414 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:15:50.040 [main] INFO  com.globant.Reporter - login succeed
+22:15:50.102 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:15:50.253 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:15:50.362 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:15:50.393 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:15:50.525 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+22:15:50.555 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+22:15:50.556 [main] INFO  com.globant.Reporter - filling out first name
+22:15:50.689 [main] INFO  com.globant.Reporter - filling out last name
+22:15:50.795 [main] INFO  com.globant.Reporter - filling out zip/postal code
+22:15:51.024 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+22:15:51.048 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+22:15:51.143 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+22:15:51.170 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+22:15:51.173 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:15:52.053 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:15:53.782 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:15:54.563 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:15:55.120 [main] INFO  com.globant.Reporter - login succeed
+22:15:55.174 [main] INFO  com.globant.Reporter - Click on menu
+22:15:55.310 [main] INFO  com.globant.Reporter - Click on logout
+22:15:55.889 [main] INFO  com.globant.Reporter - Logging out
+22:15:55.891 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:15:56.684 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:15:58.525 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:15:59.379 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:15:59.917 [main] INFO  com.globant.Reporter - login succeed
+22:15:59.978 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:16:00.333 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:16:00.450 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:16:00.475 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:16:00.494 [main] ERROR com.globant.Reporter - Test failed! Capturing a screenshot...
+22:16:00.635 [main] INFO  com.globant.Reporter - Screenshot captured: EmptyCart_20230905221600.png
+22:16:00.641 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:16:37.104 [main] INFO  com.globant.Reporter - ### Web driver manager setup ###
+22:16:37.649 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:16:40.374 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:16:41.234 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:16:41.890 [main] INFO  com.globant.Reporter - login succeed
+22:16:41.958 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:16:42.134 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:16:42.262 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:16:42.295 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:16:42.430 [main] INFO  com.globant.Reporter - redirecting to checkout step one page...
+22:16:42.464 [main] INFO  com.globant.Reporter - checkout step one page loaded successfully
+22:16:42.465 [main] INFO  com.globant.Reporter - filling out first name
+22:16:42.590 [main] INFO  com.globant.Reporter - filling out last name
+22:16:42.706 [main] INFO  com.globant.Reporter - filling out zip/postal code
+22:16:42.981 [main] INFO  com.globant.Reporter - redirecting to checkout step two page...
+22:16:43.011 [main] INFO  com.globant.Reporter - checkout step two page loaded successfully
+22:16:43.111 [main] INFO  com.globant.Reporter - redirecting to checkout complete page...
+22:16:43.135 [main] INFO  com.globant.Reporter - checkout complete page loaded successfully
+22:16:43.138 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:16:44.066 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:16:45.896 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:16:46.726 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:16:47.315 [main] INFO  com.globant.Reporter - login succeed
+22:16:47.377 [main] INFO  com.globant.Reporter - Click on menu
+22:16:47.540 [main] INFO  com.globant.Reporter - Click on logout
+22:16:48.139 [main] INFO  com.globant.Reporter - Logging out
+22:16:48.140 [main] INFO  com.globant.Reporter - Closing Chrome driver session...
+22:16:48.938 [main] INFO  com.globant.Reporter - Starting new Chrome driver session...
+22:16:50.760 [main] INFO  com.globant.Reporter - Navigating to https://www.saucedemo.com/
+22:16:51.563 [main] INFO  com.globant.Reporter - login page initialized successfully
+22:16:52.129 [main] INFO  com.globant.Reporter - login succeed
+22:16:52.167 [main] INFO  com.globant.Reporter - inventory page loaded successfully
+22:16:52.523 [main] INFO  com.globant.Reporter - item added to cart successfully
+22:16:52.635 [main] INFO  com.globant.Reporter - redirecting to cart page...
+22:16:52.663 [main] INFO  com.globant.Reporter - cart page loaded successfully
+22:16:52.890 [main] INFO  com.globant.Reporter - Empty cart...
+22:16:52.891 [main] INFO  com.globant.Reporter - Closing Chrome driver session...

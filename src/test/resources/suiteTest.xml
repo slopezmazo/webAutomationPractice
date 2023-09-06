@@ -1,24 +1,25 @@
 <suite name="SauceDemoTests">
 
-<!--    <listeners>-->
-<!--        <listener class-name="com.globant.Listener"/>-->
-<!--    </listeners>-->
+    <listeners>
+        <listener class-name="com.globant.ScreenshotErrorListener"/>
+    </listeners>
 
     <parameter name="url" value="https://www.saucedemo.com/" />
     <parameter name="username" value="standard_user" />
     <parameter name="password" value="secret_sauce" />
 
-<!--    <test name="Purchase">-->
-<!--        <classes>-->
-<!--            <class name="com.globant.tests.PurchaseTest"/>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Purchase">
+        <classes>
+            <class name="com.globant.tests.PurchaseTest"/>
+        </classes>
+    </test>
 
-<!--    <test name="logout">-->
-<!--        <classes>-->
-<!--            <class name="com.globant.tests.LogoutTest"/>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="logout">
+        <classes>
+            <class name="com.globant.tests.LogoutTest"/>
+        </classes>
+    </test>
+
     <test name="EmptyCart">
         <classes>
             <class name="com.globant.tests.EmptyCartTest"/>

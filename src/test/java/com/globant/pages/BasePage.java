@@ -19,11 +19,15 @@ public class BasePage {
     private final WebDriverWait wait;
     private final Actions actions;
 
-
+    @FindBy(className = "title")
+    protected WebElement title;
+    protected WebElement shoppingCartBadge;
     @FindBy(css="#menu_button_container .bm-burger-button")
     protected WebElement menu;
-
     protected WebElement logoutButton;
+    @FindBy(css="#shopping_cart_container .shopping_cart_link")
+    private WebElement CartLink;
+
 
     public BasePage(WebDriver driver){
         this.driver = driver;
@@ -66,10 +70,19 @@ public class BasePage {
     public void setLogoutButton(WebElement e){
         this.logoutButton=e;
     }
-
     public void clickLogoutOption(){
         clickElement(logoutButton);
     }
-
-
+    public String getTitle(){
+        return title.getText();
+    }
+    public void setShoppingCartBadge() {
+        this.shoppingCartBadge = driver.findElement(By.className("shopping_cart_badge"));
+    }
+    public String getShoppingCartBadge(){
+        return this.shoppingCartBadge.getText();
+    }
+    public void clickOnCartLink() {
+        clickElement(CartLink);
+    }
 }
